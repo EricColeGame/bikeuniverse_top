@@ -6,7 +6,18 @@
     "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and current code status for new and experienced players.",
     "legalNotice": "Independent, non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "codes": "Codes",
+    "items": "Items",
+    "controls": "Controls",
+    "progression": "Progression",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Bike Universe Wiki - Codes, Bikes & Beginner Guide",
@@ -433,7 +444,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Bike Universe Guides: Beginner Tips, Routes & Bike Builds",
+    "overviewDescription": "Browse Bike Universe guides for new riders, including how to play, beginner tips, fast bikes, upgrades, progression, and the best bike builds."
+  },
+  "mechanics": {
+    "overviewTitle": "Bike Universe Mechanics: Speed, Handling & Upgrades",
+    "overviewDescription": "Learn how Bike Universe speed, handling, customization, physics, racing systems, and bike upgrades affect every ride."
+  },
+  "codes": {
+    "overviewTitle": "Bike Universe Codes: Status, Rewards & Redemption",
+    "overviewDescription": "Check the latest Bike Universe code status, reward notes, and the step-by-step redemption process for future code releases."
+  },
+  "items": {
+    "overviewTitle": "Bike Universe Bikes: Best Bikes, Stats & Tier List",
+    "overviewDescription": "Compare Bike Universe bike stats, rare and legendary models, unlock requirements, and tier-list rankings for every riding style."
+  },
+  "controls": {
+    "overviewTitle": "Bike Universe Controls: PC, Mobile & Steering Guide",
+    "overviewDescription": "Master Bike Universe controls across PC and mobile, including steering, braking, acceleration, and the inputs behind clean cornering."
+  },
+  "progression": {
+    "overviewTitle": "Bike Universe Progression: Money, XP & Bike Unlocks",
+    "overviewDescription": "Find faster Bike Universe progression routes for earning money, leveling up, unlocking bikes, and avoiding common beginner mistakes."
+  },
+  "community": {
+    "overviewTitle": "Bike Universe Community: Multiplayer, Videos & Tips",
+    "overviewDescription": "Explore Bike Universe community resources, multiplayer sessions, gameplay videos, racing tips, and player discussions."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -464,9 +502,9 @@
     "officialYoutube": "Bike Universe Gameplay Videos",
     "vvBuilder": "Bike Universe Guide Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Bike Tier List",
+    "controlsGuides": "Controls Guides",
+    "progressionGuides": "Progression Guides",
+    "itemsGuide": "Bike Tier List",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
