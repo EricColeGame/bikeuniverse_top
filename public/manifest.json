@@ -1,13 +1,51 @@
 {
-  "name": "VV: ULTIMATUM Wiki",
-  "short_name": "VV Ultimatum",
-  "description": "Fan-made VV: ULTIMATUM Roblox wiki with codes, bosses, builds, races and guides.",
+  "id": "/",
+  "name": "Bike Universe Wiki",
+  "short_name": "Bike Universe",
+  "description": "Bike Universe fan wiki with beginner guides, bikes, controls, tricks, codes and updates.",
+  "lang": "en",
+  "dir": "ltr",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#9f4623",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#131720",
+  "theme_color": "#31c47f",
+  "categories": ["games", "entertainment", "reference"],
+  "prefer_related_applications": false,
   "icons": [
-    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Beginner Guide",
+      "short_name": "Guide",
+      "url": "/en/beginner-guide",
+      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Codes",
+      "short_name": "Codes",
+      "url": "/en/codes",
+      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" }]
+    }
   ]
 }
