@@ -3,19 +3,19 @@
     "name": "Bike Universe Wiki",
     "shortName": "Bike Universe",
     "tagline": "Guides, Bikes, Stunts & Codes",
-    "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and verified code status for new and experienced players.",
+    "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and current code status for new and experienced players.",
     "legalNotice": "Independent, non-official fan wiki. Made by players, for players."
   },
   "nav": {},
   "home": {
     "meta": {
       "title": "Bike Universe Wiki - Codes, Bikes & Beginner Guide",
-      "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and verified code status for new and experienced players."
+      "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and current code status for new and experienced players."
     },
     "hero": {
       "eyebrow": "Realistic Roblox Bike Simulator",
       "title": "Bike Universe Wiki",
-      "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and verified code status for new and experienced players.",
+      "description": "Explore Bike Universe on Roblox with bike guides, riding tips, tricks, upgrades, game updates, and current code status for new and experienced players.",
       "stats": [
         "2.2M+ Total Visits",
         "14.5K Peak CCU",
@@ -39,288 +39,390 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the HUD controls, shift lock, braking points, and first-session habits that keep your bike upright in Bike Universe traffic."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Progression",
+          "description": "Build cash and milestone progress faster with repeatable highway routes, distance objectives, and clean run planning."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Money Routes",
+          "description": "Find efficient earning loops for pedal, electric, and dirt bikes without risking your progress in heavy traffic."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Bike Universe."
+          "title": "Codes & Rewards",
+          "description": "Check the current Bike Universe code status and learn the standard redemption flow for future reward drops."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Bike Universe Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Bike Tier List",
+        "Controls",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "First-ride setup, HUD controls, traffic awareness, and the habits that keep new riders moving.",
+          "href": "/guide/bike-universe-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Controls Guide",
+          "description": "Every HUD button, keybind, pedal input, and mobile touch control explained in one place.",
+          "href": "/controls/bike-universe-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Bike Tier List",
+          "description": "Rank bike archetypes by acceleration, handling, braking stability, top speed, and recovery.",
+          "href": "/items/bike-universe-bike-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Fastest Bikes",
+          "description": "Learn how to measure top speed, compare bike classes, and tune for the route you actually ride.",
+          "href": "/guide/bike-universe-fastest-bikes"
+        },
+        {
+          "badge": "Guide",
+          "title": "Bike Handling",
+          "description": "Braking, cornering, landing, and bike-category drills that make every faster ride easier to control.",
+          "href": "/mechanics/bike-universe-bike-handling"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Bike Universe Codes",
+          "description": "Current code status, where new codes would appear first, and the standard redemption steps.",
+          "href": "/codes/bike-universe-codes"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Tips",
+          "title": "Beginner Mistakes",
+          "description": "Nine common habits that stall progression and the fixes that turn messy runs into clean routes.",
+          "href": "/progression/bike-universe-beginner-mistakes"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Progression",
+          "title": "Unlock New Bikes",
+          "description": "Understand currency, milestones, garage slots, and the purchase order that grows your collection.",
+          "href": "/progression/bike-universe-unlock-new-bikes"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Community",
+          "title": "Multiplayer Guide",
+          "description": "Tandem riding, group free-roam, shared routes, and co-op tactics for AI police pursuits.",
+          "href": "/community/bike-universe-multiplayer"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Bike Universe?",
       "paragraphs": [
-        "Bike Universe is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Bike Universe is a Roblox biking experience built around an open city, traffic-heavy roads, and a garage of pedal, electric, dirt, racing, and trick bikes. Riders balance throttle, braking, and body position while weaving through traffic, practicing wheelies, stoppies, and jumps, and using the HUD to manage bikes, builds, and spawn points.",
+        "Bike Universe has been in active beta through 2026, with a highway traffic system and testing UI at the core of the current build. Our guides cover first-ride setup, controls, bike handling, progression, tier rankings, and the latest code status so new riders can build clean habits before chasing speed."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Bike Universe developers"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Bike Simulator"
+        },
+        {
+          "label": "Status",
+          "value": "Active Beta"
+        },
+        {
+          "label": "Release",
+          "value": "Sep 27, 2026"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "2.2M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Peak CCU",
+          "value": "14.5K"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "User Rating",
+          "value": "87.1%"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Bike Universe Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Bike Universe Guides",
+      "description": "Plan your first ride, learn every control, compare bike classes, rank your garage, and follow the latest Bike Universe test-build changes.",
       "modules": [
         {
           "order": 1,
-          "name": "Bike Universe Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/bike-universe-codes",
-          "displayType": "code-box",
+          "name": "Bike Universe Beginner Guide",
+          "description": "Start with the first-ride essentials: HUD layout, camera setup, throttle and brake control, traffic scanning, and productive first-session goals.",
+          "href": "/guide/bike-universe-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Set shift lock and camera sensitivity before entering traffic"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Feather the throttle and brake before you need an escape gap"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Scan two vehicles ahead and ride at a speed you can stop from"
+            },
+            {
+              "label": "4",
+              "detail": "Practice one repeatable loop and learn where shops and ramps sit"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/bike-universe-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Bike Universe Bikes Guide",
+          "description": "Compare pedal, electric, dirt, racing, and trick bikes by their handling traits, strengths, and the routes each category handles best.",
+          "href": "/mechanics/bike-universe-bike-handling",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Pedal",
+              "detail": "Very good turning and stability make pedal bikes the best learning platform"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Electric",
+              "detail": "Smooth power and balanced handling suit fast city travel"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Dirt",
+              "detail": "Suspension and grip shine on rough terrain and shortcuts"
+            },
+            {
+              "label": "Racing",
+              "detail": "High speed rewards clean lines and disciplined braking"
+            },
+            {
+              "label": "Trick",
+              "detail": "Quick direction changes support stunts but demand precise inputs"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/bike-universe-tier-list",
-          "displayType": "tier-grid",
+          "name": "Bike Universe Controls Guide",
+          "description": "Learn the HUD button row, shift lock, throttle, rear brake, stunt prompts, and mobile touch controls for PC and phone riders.",
+          "href": "/controls/bike-universe-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "SHOP",
+              "detail": "Opens bikes, parts, and Robux passes"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "BUILD",
+              "detail": "Opens the build system for the equipped bike"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "BIKES",
+              "detail": "Shows the garage, search field, and category filters"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "SPAWN",
+              "detail": "Selects a spawn point before a run"
+            },
+            {
+              "label": "SHIFT",
+              "detail": "Turns shift lock on or off"
+            },
+            {
+              "label": "REAR BRAKE",
+              "detail": "Controls braking and is the most-used input in traffic"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/bike-universe-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Bike Universe Tricks Guide",
+          "description": "Practice wheelies, stoppies, burnouts, jumps, and clean landings with balance drills that build control before you attempt combos.",
+          "href": "/mechanics/bike-universe-bike-physics",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Start in an open lot and learn the action prompt strip"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Practice short wheelies by feathering the throttle at low speed"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Brake progressively for stoppies and shift weight back"
+            },
+            {
+              "label": "4",
+              "detail": "Approach small ramps at moderate speed and level the bike in the air"
+            },
+            {
+              "label": "5",
+              "detail": "Use short throttle bursts for burnouts and release to regain traction"
+            },
+            {
+              "label": "6",
+              "detail": "Link moves only after each trick lands cleanly on its own"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/bike-universe-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Bike Universe Tier List",
+          "description": "Rank bike archetypes by acceleration, handling, braking stability, top speed, and recovery for traffic-heavy Bike Universe routes.",
+          "href": "/items/bike-universe-bike-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Balanced sport bikes combine strong acceleration with predictable turn-in"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Supermoto and dirt builds excel in tight traffic or rough shortcuts"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Hyperbikes and stunt setups trade consistency for a specialized ceiling"
+            },
+            {
+              "label": "C",
+              "detail": "Starter commuters are forgiving but cap out once your lines are clean"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/bike-universe-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Bike Universe Codes",
+          "description": "Check the current Bike Universe code status, learn the standard redemption steps, and know where new codes would appear first.",
+          "href": "/codes/bike-universe-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Active",
+              "detail": "No working Bike Universe codes are listed as of October 19, 2026"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Expired",
+              "detail": "No expired Bike Universe codes have been published"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Redeem",
+              "detail": "Open the menu or testing UI and look for a Codes or Promo field"
+            },
+            {
+              "label": "Watch",
+              "detail": "New codes would appear on the game page and developer channels first"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bike Universe Beginner Tips and Tricks",
+          "description": "Fix the habits that slow new riders: brake before the corner, pick one repeatable earn route, test upgrades on the same loop, and plan pursuit escapes.",
+          "href": "/progression/bike-universe-beginner-mistakes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Braking",
+              "detail": "Brake before turn-in and use the same landmark for repeatable stops"
+            },
+            {
+              "label": "Routes",
+              "detail": "Lock in one earning loop that matches your current bike"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Buy the part that removes a specific limitation, then test it"
+            },
+            {
+              "label": "Pursuits",
+              "detail": "Commit to a route early and keep two exits open"
+            },
+            {
+              "label": "Patches",
+              "detail": "Re-check landmarks and prices after each major build update"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bike Universe Updates and Patch Notes",
+          "description": "Follow the latest Bike Universe test-build changes, traffic and handling tuning, new bike content, and community feedback priorities.",
+          "href": "/community/bike-universe-gameplay-videos",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Traffic",
+              "detail": "The highway traffic system remains the centerpiece of the current test build"
+            },
+            {
+              "label": "Testing UI",
+              "detail": "The testing UI tracks speed and feedback while systems are tuned"
+            },
+            {
+              "label": "Handling",
+              "detail": "Bike handling and balance can change between public builds"
+            },
+            {
+              "label": "Beta",
+              "detail": "Bike Universe remains in active beta while new features are tested"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Bike Universe.",
+      "title": "Bike Universe FAQ",
+      "description": "Quick answers about Bike Universe controls, bikes, progression, codes, and multiplayer.",
       "items": [
         {
           "question": "What is Bike Universe?",
-          "answer": "Bike Universe is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Bike Universe is a Roblox biking experience set in an open city with traffic-heavy roads, several bike classes, stunts, and AI police pursuits. Riders use the HUD to buy bikes, change builds, and choose spawn points."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Bike Universe free to play?",
+          "answer": "Bike Universe is free to access on Roblox with a Roblox account. Optional purchases are separate, and the test build has stated that Robux earned during development goes back into the game."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which Bike Universe controls should I learn first?",
+          "answer": "Start with shift lock, the throttle, and the rear brake. Those three Bike Universe controls make lane changes, braking points, and stunt landings predictable before you add wheelies or jumps."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Bike Universe have working codes?",
+          "answer": "No working Bike Universe codes are listed as of October 19, 2026. If a code system is added, open the in-game menu or testing UI and look for a Codes or Promo field."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which bike should a new Bike Universe player use?",
+          "answer": "Start with a pedal bike because its turning and stability are forgiving. Move to an electric bike for city travel, a dirt bike for rough shortcuts, or a racing bike after your cornering is consistent."
+        },
+        {
+          "question": "How do I earn cash faster in Bike Universe?",
+          "answer": "Use one repeatable earning route, finish runs instead of restarting, and chase timed or distance objectives. In Bike Universe, clean traffic runs usually pay more than risky stunts."
+        },
+        {
+          "question": "Does Bike Universe support multiplayer?",
+          "answer": "Yes. Bike Universe supports group free-roam and two-player tandem bikes. Join a friend through Roblox, agree on a meeting point, and share the route before a police pursuit starts."
         }
       ]
     },
