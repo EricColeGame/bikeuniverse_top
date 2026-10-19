@@ -173,10 +173,11 @@
       ],
       "cta": "Explore All Guides"
     },
-    "explore": {
-      "title": "Explore Bike Universe Guides",
-      "description": "Plan your first ride, learn every control, compare bike classes, rank your garage, and follow the latest Bike Universe test-build changes.",
-      "modules": [
+  "explore": {
+    "title": "Explore Bike Universe Guides",
+    "description": "Plan your first ride, learn every control, compare bike classes, rank your garage, and follow the latest Bike Universe test-build changes.",
+    "readFullGuide": "Read Full Guide",
+    "modules": [
         {
           "order": 1,
           "name": "Bike Universe Beginner Guide",
@@ -475,6 +476,8 @@
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
+    "noActiveCodes": "No active codes currently available",
+    "checkBackSoon": "Check back soon for new codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
@@ -487,7 +490,11 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "pageNotFound": "Page not found",
+    "pageNotFoundDescription": "The guide you are looking for may have moved or has not been added yet.",
+    "browseGuides": "Browse Bike Guides",
+    "close": "Close"
   },
   "footer": {
     "aboutTitle": "Bike Universe Wiki",

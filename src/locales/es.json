@@ -1,1 +1,518 @@
-{}
+{
+  "site": {
+    "name": "Bike Universe Wiki",
+    "shortName": "Bike Universe",
+    "tagline": "Guías, motos, acrobacias y códigos",
+    "description": "Explora Bike Universe en Roblox con guías de motos, consejos de conducción, trucos, mejoras, actualizaciones del juego y el estado actual de los códigos para jugadores nuevos y veteranos.",
+    "legalNotice": "Wiki de fans independiente y no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "codes": "Códigos",
+    "items": "Objetos",
+    "controls": "Controles",
+    "progression": "Progresión",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Bike Universe Wiki: códigos, motos y guía para principiantes",
+      "description": "Explora Bike Universe en Roblox con guías de motos, consejos de conducción, trucos, mejoras, actualizaciones del juego y el estado actual de los códigos para jugadores nuevos y veteranos."
+    },
+    "hero": {
+      "eyebrow": "Simulador de motos realista en Roblox",
+      "title": "Bike Universe Wiki",
+      "description": "Explora Bike Universe en Roblox con guías de motos, consejos de conducción, trucos, mejoras, actualizaciones del juego y el estado actual de los códigos para jugadores nuevos y veteranos.",
+      "stats": [
+        "Más de 2,2 M de visitas",
+        "14,5 K CCU máximos",
+        "87,1 % de valoración positiva",
+        "Fecha de lanzamiento: 27 sep 2026"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Lista de niveles de motos",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Gameplay de Bike Universe"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Bike Universe",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los controles del HUD, el bloqueo de desplazamiento, los puntos de frenado y los hábitos de la primera sesión que mantienen tu moto en pie entre el tráfico de Bike Universe."
+        },
+        {
+          "number": "2",
+          "title": "Progresión más rápida",
+          "description": "Gana dinero y avanza en los hitos más rápido con rutas de autopista repetibles, objetivos de distancia y una planificación limpia de las partidas."
+        },
+        {
+          "number": "3",
+          "title": "Mejores rutas para ganar dinero",
+          "description": "Encuentra bucles de ingresos eficientes para motos de pedales, eléctricas y de tierra sin arriesgar tu progreso en el tráfico denso."
+        },
+        {
+          "number": "4",
+          "title": "Códigos y recompensas",
+          "description": "Consulta el estado actual de los códigos de Bike Universe y aprende el proceso estándar de canje para futuras recompensas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Bike Universe en tendencia",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Lista de niveles de motos",
+        "Controles",
+        "Códigos activos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Configuración de la primera partida, controles del HUD, conciencia del tráfico y los hábitos que mantienen en marcha a los nuevos pilotos.",
+          "href": "/guide/bike-universe-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de controles",
+          "description": "Todos los botones del HUD, atajos de teclado, entradas de pedales y controles táctiles móviles explicados en un solo lugar.",
+          "href": "/controls/bike-universe-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de niveles de motos",
+          "description": "Clasifica los arquetipos de motos por aceleración, manejo, estabilidad de frenado, velocidad punta y recuperación.",
+          "href": "/items/bike-universe-bike-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Motos más rápidas",
+          "description": "Aprende a medir la velocidad punta, comparar clases de motos y ajustar tu moto para la ruta que realmente recorres.",
+          "href": "/guide/bike-universe-fastest-bikes"
+        },
+        {
+          "badge": "Guía",
+          "title": "Manejo de la moto",
+          "description": "Ejercicios de frenado, curvas, aterrizajes y categorías de motos que hacen que cada conducción rápida sea más fácil de controlar.",
+          "href": "/mechanics/bike-universe-bike-handling"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos de Bike Universe",
+          "description": "Estado actual de los códigos, dónde aparecerían primero los nuevos y los pasos estándar de canje.",
+          "href": "/codes/bike-universe-codes"
+        },
+        {
+          "badge": "Consejos",
+          "title": "Errores de principiante",
+          "description": "Nueve hábitos comunes que frenan la progresión y las soluciones que convierten partidas caóticas en rutas limpias.",
+          "href": "/progression/bike-universe-beginner-mistakes"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Desbloquea motos nuevas",
+          "description": "Entiende la moneda, los hitos, las plazas del garaje y el orden de compra que amplía tu colección.",
+          "href": "/progression/bike-universe-unlock-new-bikes"
+        },
+        {
+          "badge": "Comunidad",
+          "title": "Guía multijugador",
+          "description": "Pilotaje en tándem, exploración libre en grupo, rutas compartidas y tácticas cooperativas contra persecuciones policiales con IA.",
+          "href": "/community/bike-universe-multiplayer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Bike Universe?",
+      "paragraphs": [
+        "Bike Universe es una experiencia de ciclismo en Roblox construida en torno a una ciudad abierta, carreteras con mucho tráfico y un garaje de motos de pedales, eléctricas, de tierra, de carreras y de acrobacias. Los pilotos equilibran el acelerador, el frenado y la posición del cuerpo mientras se abren paso entre el tráfico, practican caballitos, stoppies y saltos, y usan el HUD para gestionar motos, builds y puntos de aparición.",
+        "Bike Universe ha estado en beta activa durante 2026, con un sistema de tráfico de autopista y una interfaz de pruebas en el núcleo de la build actual. Nuestras guías cubren la configuración de la primera partida, los controles, el manejo de la moto, la progresión, las listas de niveles y el estado más reciente de los códigos para que los nuevos pilotos creen hábitos limpios antes de buscar velocidad."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de motos"
+        },
+        {
+          "label": "Estado",
+          "value": "Beta activa"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "27 sep 2026"
+        },
+        {
+          "label": "Visitas",
+          "value": "2.2M+"
+        },
+        {
+          "label": "CCU máximo",
+          "value": "14.5K"
+        },
+        {
+          "label": "Valoración de usuarios",
+          "value": "87.1%"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora las guías de Bike Universe",
+      "description": "Planifica tu primera partida, aprende todos los controles, compara clases de motos, clasifica tu garaje y sigue los últimos cambios de la build de pruebas de Bike Universe.",
+      "readFullGuide": "Leer guía completa",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Bike Universe",
+          "description": "Empieza con lo esencial de la primera partida: diseño del HUD, configuración de la cámara, control del acelerador y el freno, lectura del tráfico y objetivos productivos para la primera sesión.",
+          "href": "/guide/bike-universe-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Configura el bloqueo de desplazamiento y la sensibilidad de la cámara antes de entrar en el tráfico"
+            },
+            {
+              "label": "2",
+              "detail": "Modula el acelerador y el freno antes de necesitar un hueco para escapar"
+            },
+            {
+              "label": "3",
+              "detail": "Observa dos vehículos por delante y circula a una velocidad desde la que puedas detenerte"
+            },
+            {
+              "label": "4",
+              "detail": "Practica un circuito repetible y aprende dónde están las tiendas y las rampas"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de motos de Bike Universe",
+          "description": "Compara motos de pedales, eléctricas, de tierra, de carreras y de acrobacias por sus rasgos de manejo, fortalezas y las rutas que mejor domina cada categoría.",
+          "href": "/mechanics/bike-universe-bike-handling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pedales",
+              "detail": "Su excelente giro y estabilidad convierten a las motos de pedales en la mejor plataforma de aprendizaje"
+            },
+            {
+              "label": "Eléctrica",
+              "detail": "La potencia suave y el manejo equilibrado encajan con los desplazamientos rápidos por la ciudad"
+            },
+            {
+              "label": "Tierra",
+              "detail": "La suspensión y el agarre destacan en terrenos irregulares y atajos"
+            },
+            {
+              "label": "Carreras",
+              "detail": "La alta velocidad premia las trazadas limpias y el frenado disciplinado"
+            },
+            {
+              "label": "Acrobacias",
+              "detail": "Los cambios rápidos de dirección favorecen las acrobacias, pero exigen entradas precisas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de controles de Bike Universe",
+          "description": "Aprende la fila de botones del HUD, el bloqueo de desplazamiento, el acelerador, el freno trasero, las indicaciones de acrobacias y los controles táctiles para jugadores de PC y móvil.",
+          "href": "/controls/bike-universe-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SHOP",
+              "detail": "Abre motos, piezas y pases de Robux"
+            },
+            {
+              "label": "BUILD",
+              "detail": "Abre el sistema de builds para la moto equipada"
+            },
+            {
+              "label": "BIKES",
+              "detail": "Muestra el garaje, el campo de búsqueda y los filtros de categoría"
+            },
+            {
+              "label": "SPAWN",
+              "detail": "Selecciona un punto de aparición antes de una partida"
+            },
+            {
+              "label": "SHIFT",
+              "detail": "Activa o desactiva el bloqueo de desplazamiento"
+            },
+            {
+              "label": "REAR BRAKE",
+              "detail": "Controla el frenado y es la entrada más usada en el tráfico"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de acrobacias de Bike Universe",
+          "description": "Practica caballitos, stoppies, derrapes, saltos y aterrizajes limpios con ejercicios de equilibrio que desarrollan el control antes de intentar combinaciones.",
+          "href": "/mechanics/bike-universe-bike-physics",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza en un aparcamiento abierto y aprende la franja de indicaciones de acción"
+            },
+            {
+              "label": "2",
+              "detail": "Practica caballitos cortos modulando el acelerador a baja velocidad"
+            },
+            {
+              "label": "3",
+              "detail": "Frena de forma progresiva para hacer stoppies y desplaza el peso hacia atrás"
+            },
+            {
+              "label": "4",
+              "detail": "Acércate a rampas pequeñas a velocidad moderada y nivela la moto en el aire"
+            },
+            {
+              "label": "5",
+              "detail": "Usa aceleraciones cortas para derrapar y suelta para recuperar tracción"
+            },
+            {
+              "label": "6",
+              "detail": "Encadena movimientos solo cuando cada truco salga limpio por separado"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Lista de niveles de Bike Universe",
+          "description": "Clasifica los arquetipos de motos por aceleración, manejo, estabilidad de frenado, velocidad punta y recuperación para las rutas de Bike Universe con mucho tráfico.",
+          "href": "/items/bike-universe-bike-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Las motos deportivas equilibradas combinan una aceleración potente con una entrada en curva predecible"
+            },
+            {
+              "label": "A",
+              "detail": "Los builds supermoto y de tierra destacan en tráfico denso o en atajos irregulares"
+            },
+            {
+              "label": "B",
+              "detail": "Las hyperbikes y las configuraciones de acrobacias cambian consistencia por un techo especializado"
+            },
+            {
+              "label": "C",
+              "detail": "Las motos de iniciación son indulgentes, pero se quedan cortas cuando tus trazadas son limpias"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Códigos de Bike Universe",
+          "description": "Consulta el estado actual de los códigos de Bike Universe, aprende los pasos estándar de canje y descubre dónde aparecerían primero los nuevos códigos.",
+          "href": "/codes/bike-universe-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Activos",
+              "detail": "No hay códigos de Bike Universe funcionales listados a 19 de octubre de 2026"
+            },
+            {
+              "label": "Caducados",
+              "detail": "No se han publicado códigos caducados de Bike Universe"
+            },
+            {
+              "label": "Canjear",
+              "detail": "Abre el menú o la interfaz de pruebas y busca un campo de Códigos o Promociones"
+            },
+            {
+              "label": "Atento",
+              "detail": "Los nuevos códigos aparecerían primero en la página del juego y en los canales de los desarrolladores"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Consejos y trucos para principiantes de Bike Universe",
+          "description": "Corrige los hábitos que frenan a los nuevos pilotos: frena antes de la curva, elige una ruta de ingresos repetible, prueba las mejoras en el mismo circuito y planifica escapes de persecuciones.",
+          "href": "/progression/bike-universe-beginner-mistakes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Frenada",
+              "detail": "Frena antes de entrar en la curva y usa el mismo punto de referencia para detenerte de forma repetible"
+            },
+            {
+              "label": "Rutas",
+              "detail": "Fija un circuito de ingresos que encaje con tu moto actual"
+            },
+            {
+              "label": "Mejoras",
+              "detail": "Compra la pieza que elimina una limitación concreta y luego pruébala"
+            },
+            {
+              "label": "Persecuciones",
+              "detail": "Comprométete con una ruta pronto y mantén dos salidas abiertas"
+            },
+            {
+              "label": "Parches",
+              "detail": "Vuelve a comprobar los puntos de referencia y los precios tras cada actualización importante"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y notas de parche de Bike Universe",
+          "description": "Sigue los últimos cambios de la build de pruebas de Bike Universe, los ajustes de tráfico y manejo, el nuevo contenido de motos y las prioridades del feedback de la comunidad.",
+          "href": "/community/bike-universe-gameplay-videos",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráfico",
+              "detail": "El sistema de tráfico de autopista sigue siendo la pieza central de la build de pruebas actual"
+            },
+            {
+              "label": "Interfaz de pruebas",
+              "detail": "La interfaz de pruebas registra la velocidad y el feedback mientras se ajustan los sistemas"
+            },
+            {
+              "label": "Manejo",
+              "detail": "El manejo y el equilibrio de las motos pueden cambiar entre builds públicas"
+            },
+            {
+              "label": "Beta",
+              "detail": "Bike Universe sigue en beta activa mientras se prueban nuevas funciones"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Bike Universe",
+      "description": "Respuestas rápidas sobre controles, motos, progresión, códigos y multijugador de Bike Universe.",
+      "items": [
+        {
+          "question": "¿Qué es Bike Universe?",
+          "answer": "Bike Universe es una experiencia de ciclismo en Roblox ambientada en una ciudad abierta con carreteras de mucho tráfico, varias clases de motos, acrobacias y persecuciones policiales con IA. Los pilotos usan el HUD para comprar motos, cambiar builds y elegir puntos de aparición."
+        },
+        {
+          "question": "¿Bike Universe es gratis?",
+          "answer": "Bike Universe es de acceso gratuito en Roblox con una cuenta de Roblox. Las compras opcionales son aparte, y la build de pruebas ha indicado que los Robux obtenidos durante el desarrollo vuelven al juego."
+        },
+        {
+          "question": "¿Qué controles de Bike Universe debo aprender primero?",
+          "answer": "Empieza con el bloqueo de desplazamiento, el acelerador y el freno trasero. Esos tres controles de Bike Universe hacen predecibles los cambios de carril, los puntos de frenado y los aterrizajes de acrobacias antes de añadir caballitos o saltos."
+        },
+        {
+          "question": "¿Bike Universe tiene códigos funcionales?",
+          "answer": "No hay códigos de Bike Universe funcionales listados a 19 de octubre de 2026. Si se añade un sistema de códigos, abre el menú del juego o la interfaz de pruebas y busca un campo de Códigos o Promociones."
+        },
+        {
+          "question": "¿Qué moto debería usar un jugador nuevo de Bike Universe?",
+          "answer": "Empieza con una moto de pedales porque su giro y estabilidad son indulgentes. Pasa a una eléctrica para moverte por la ciudad, a una de tierra para atajos irregulares o a una de carreras cuando tus curvas sean consistentes."
+        },
+        {
+          "question": "¿Cómo gano dinero más rápido en Bike Universe?",
+          "answer": "Usa una ruta de ingresos repetible, termina las partidas en lugar de reiniciar y persigue objetivos de tiempo o distancia. En Bike Universe, las partidas limpias entre el tráfico suelen pagar más que las acrobacias arriesgadas."
+        },
+        {
+          "question": "¿Bike Universe tiene multijugador?",
+          "answer": "Sí. Bike Universe admite exploración libre en grupo y motos tándem para dos jugadores. Únete a un amigo mediante Roblox, acordad un punto de encuentro y compartid la ruta antes de que empiece una persecución policial."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para recorrer Bike Universe?",
+      "description": "Desde tu primera moto hasta acrobacias y mejoras avanzadas, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Bike Universe: consejos para principiantes, rutas y builds de motos",
+    "overviewDescription": "Explora las guías de Bike Universe para nuevos pilotos, incluyendo cómo jugar, consejos para principiantes, motos rápidas, mejoras, progresión y los mejores builds de motos."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Bike Universe: velocidad, manejo y mejoras",
+    "overviewDescription": "Descubre cómo la velocidad, el manejo, la personalización, la física, los sistemas de carreras y las mejoras de motos de Bike Universe afectan a cada partida."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Bike Universe: estado, recompensas y canje",
+    "overviewDescription": "Consulta el estado más reciente de los códigos de Bike Universe, las notas de recompensas y el proceso de canje paso a paso para futuros lanzamientos de códigos."
+  },
+  "items": {
+    "overviewTitle": "Motos de Bike Universe: mejores motos, estadísticas y lista de niveles",
+    "overviewDescription": "Compara las estadísticas de las motos de Bike Universe, los modelos raros y legendarios, los requisitos de desbloqueo y las clasificaciones de la lista de niveles para cada estilo de conducción."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Bike Universe: guía para PC, móvil y dirección",
+    "overviewDescription": "Domina los controles de Bike Universe en PC y móvil, incluyendo dirección, frenado, aceleración y las entradas que hay detrás de una curva limpia."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Bike Universe: dinero, XP y desbloqueos de motos",
+    "overviewDescription": "Encuentra rutas de progresión más rápidas en Bike Universe para ganar dinero, subir de nivel, desbloquear motos y evitar errores comunes de principiante."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Bike Universe: multijugador, vídeos y consejos",
+    "overviewDescription": "Explora los recursos de la comunidad de Bike Universe, sesiones multijugador, vídeos de gameplay, consejos de carreras y debates de jugadores."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "noActiveCodes": "No hay códigos activos disponibles en este momento",
+    "checkBackSoon": "Vuelve pronto para ver nuevos códigos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "pageNotFound": "Página no encontrada",
+    "pageNotFoundDescription": "La guía que buscas puede haberse movido o aún no se ha añadido.",
+    "browseGuides": "Explorar guías de motos",
+    "close": "Cerrar"
+  },
+  "footer": {
+    "aboutTitle": "Bike Universe Wiki",
+    "about": "Bike Universe Wiki es un centro de guías independiente creado por fans que cubre motos, controles, acrobacias, mejoras, rutas de progresión y conocimientos esenciales del juego tanto para pilotos nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Bike Universe Wiki. No está afiliada a Roblox Corporation ni a los desarrolladores de Bike Universe.",
+    "description": "Bike Universe es un simulador de motos de Roblox con motos, trucos, carreras y progresión en mundo abierto.",
+    "playGame": "Jugar a Bike Universe en Roblox",
+    "officialDiscord": "Búsqueda de la comunidad de Bike Universe",
+    "officialYoutube": "Vídeos de gameplay de Bike Universe",
+    "vvBuilder": "Centro de guías de Bike Universe",
+    "beginnerGuide": "Guía para principiantes",
+    "controlsGuides": "Guías de controles",
+    "progressionGuides": "Guías de progresión",
+    "itemsGuide": "Lista de niveles de motos",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

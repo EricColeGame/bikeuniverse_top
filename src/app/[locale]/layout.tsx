@@ -9,6 +9,7 @@ import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
 import { JsonLd, SiteFooter, SiteHeader } from "@/components/site";
 import { routing } from "@/i18n/routing";
+import en from "@/locales/en.json";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
@@ -20,12 +21,13 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as typeof en;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Bike Universe Wiki", template: "%s" },
-    description: "Complete Bike Universe fan wiki with codes, bikes, controls, tricks, guides and progression walkthroughs.",
+    title: { default: messages.site.name, template: "%s" },
+    description: messages.site.description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -39,7 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
     },
     openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, images: [{ url: image, width: 1920, height: 800, alt: `${siteConfig.name} hero image` }] },
-    twitter: { card: "summary_large_image", title: "Bike Universe Wiki", description: siteConfig.description, images: [image] },
+    twitter: { card: "summary_large_image", title: messages.site.name, description: messages.site.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }

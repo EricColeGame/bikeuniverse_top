@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useTranslations } from "next-intl";
 import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
@@ -18,6 +19,8 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 const YOUTUBE_VIDEO_ID = "5nvK9ktqLMk";
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
+  const tNav = useTranslations("nav");
+
   return (
     <div className="min-w-0 space-y-16">
       {/* Sticky 320x50 banner — top revenue slot, dismissable (course §4.3/4.4) */}
@@ -60,7 +63,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                 className="block rounded-xl border border-border bg-background p-4 transition hover:border-[hsl(var(--nav-theme-light))]"
               >
                 <div className="mb-2 flex items-center justify-between">
-                  <Badge className="bg-[hsl(var(--nav-theme))] text-primary-foreground">{article.contentType.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}</Badge>
+                  <Badge className="bg-[hsl(var(--nav-theme))] text-primary-foreground">{tNav(article.contentType)}</Badge>
                   <span className="text-xs text-muted-foreground">{article.metadata.date}</span>
                 </div>
                 <p className="font-semibold text-foreground">{article.metadata.title}</p>
@@ -233,7 +236,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                     href={localizeHref(mod.href, locale)}
                     className="mt-5 inline-flex items-center text-sm font-semibold text-[hsl(var(--nav-theme))] hover:underline"
                   >
-                    Read Full Guide <ChevronRight className="ml-1 h-4 w-4" />
+                    {home.explore.readFullGuide} <ChevronRight className="ml-1 h-4 w-4" />
                   </Link>
                 </div>
               </div>

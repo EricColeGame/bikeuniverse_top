@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/search/?q=Bike+Universe",
     youtube: "https://www.youtube.com/results?search_query=Bike+Universe+Gameplay",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt-BR", "de"],
   defaultLocale: "en",
 };

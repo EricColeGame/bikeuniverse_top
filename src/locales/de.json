@@ -1,1 +1,518 @@
-{}
+{
+  "site": {
+    "name": "Bike Universe Wiki",
+    "shortName": "Bike Universe",
+    "tagline": "Anleitungen, Bikes, Stunts & Codes",
+    "description": "Erkunde Bike Universe auf Roblox mit Bike-Guides, Fahrttipps, Tricks, Upgrades, Spielupdates und dem aktuellen Codestatus für neue und erfahrene Spieler.",
+    "legalNotice": "Unabhängiges, inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Theme wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechanik",
+    "codes": "Codes",
+    "items": "Gegenstände",
+    "controls": "Steuerung",
+    "progression": "Fortschritt",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Bike Universe Wiki – Codes, Bikes & Einsteigerguide",
+      "description": "Erkunde Bike Universe auf Roblox mit Bike-Guides, Fahrttipps, Tricks, Upgrades, Spielupdates und dem aktuellen Codestatus für neue und erfahrene Spieler."
+    },
+    "hero": {
+      "eyebrow": "Realistischer Roblox-Bike-Simulator",
+      "title": "Bike Universe Wiki",
+      "description": "Erkunde Bike Universe auf Roblox mit Bike-Guides, Fahrttipps, Tricks, Upgrades, Spielupdates und dem aktuellen Codestatus für neue und erfahrene Spieler.",
+      "stats": [
+        "2,2 Mio.+ Besuche",
+        "14,5 K Spitzen-CCU",
+        "87,1 % Nutzerbewertung",
+        "Release: 27. Sep. 2026"
+      ],
+      "primaryCta": "Einsteigerguide",
+      "secondaryCta": "Bike-Tier-Liste",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Bike Universe Gameplay"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Bike-Universe-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerguide",
+          "description": "Lerne die HUD-Steuerung, den Shift-Lock, Bremspunkte und die Gewohnheiten der ersten Session, die dein Bike im Verkehr von Bike Universe aufrecht halten."
+        },
+        {
+          "number": "2",
+          "title": "Schnellster Fortschritt",
+          "description": "Baue Bargeld und Meilenstein-Fortschritt schneller mit wiederholbaren Highway-Routen, Distanzzielen und sauberer Fahrtenplanung auf."
+        },
+        {
+          "number": "3",
+          "title": "Beste Geldrouten",
+          "description": "Finde effiziente Einnahme-Runden für Pedal-, Elektro- und Dirt-Bikes, ohne deinen Fortschritt im dichten Verkehr zu riskieren."
+        },
+        {
+          "number": "4",
+          "title": "Codes & Belohnungen",
+          "description": "Prüfe den aktuellen Codestatus von Bike Universe und lerne den Standard-Einlöseablauf für künftige Belohnungen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Beliebte Bike-Universe-Guides",
+      "quickLinks": [
+        "Einsteigerguide",
+        "Bike-Tier-Liste",
+        "Steuerung",
+        "Aktive Codes"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteigerguide",
+          "description": "Einrichtung der ersten Fahrt, HUD-Steuerung, Verkehrsbewusstsein und die Gewohnheiten, die neue Fahrer in Bewegung halten.",
+          "href": "/guide/bike-universe-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Steuerungsguide",
+          "description": "Jede HUD-Schaltfläche, Tastenbelegung, Pedaleingabe und mobile Touch-Steuerung an einem Ort erklärt.",
+          "href": "/controls/bike-universe-controls"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Bike-Tier-Liste",
+          "description": "Ordne Bike-Archetypen nach Beschleunigung, Handling, Bremsstabilität, Höchstgeschwindigkeit und Erholung ein.",
+          "href": "/items/bike-universe-bike-tier-list"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Schnellste Bikes",
+          "description": "Lerne, die Höchstgeschwindigkeit zu messen, Bike-Klassen zu vergleichen und dein Bike für die Route abzustimmen, die du tatsächlich fährst.",
+          "href": "/guide/bike-universe-fastest-bikes"
+        },
+        {
+          "badge": "Guide",
+          "title": "Bike-Handling",
+          "description": "Brems-, Kurven-, Lande- und Bike-Kategorie-Übungen, die jede schnellere Fahrt leichter kontrollierbar machen.",
+          "href": "/mechanics/bike-universe-bike-handling"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Bike Universe Codes",
+          "description": "Aktueller Codestatus, wo neue Codes zuerst erscheinen würden und die standardmäßigen Einlöseschritte.",
+          "href": "/codes/bike-universe-codes"
+        },
+        {
+          "badge": "Tipps",
+          "title": "Einsteigerfehler",
+          "description": "Neun häufige Gewohnheiten, die den Fortschritt bremsen, und die Korrekturen, die chaotische Fahrten in saubere Routen verwandeln.",
+          "href": "/progression/bike-universe-beginner-mistakes"
+        },
+        {
+          "badge": "Fortschritt",
+          "title": "Neue Bikes freischalten",
+          "description": "Verstehe Währung, Meilensteine, Garagenplätze und die Kaufreihenfolge, die deine Sammlung erweitert.",
+          "href": "/progression/bike-universe-unlock-new-bikes"
+        },
+        {
+          "badge": "Community",
+          "title": "Multiplayer-Guide",
+          "description": "Tandemfahrten, gemeinsames Free-Roam, geteilte Routen und Co-op-Taktiken für Verfolgungsjagden mit KI-Polizei.",
+          "href": "/community/bike-universe-multiplayer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Bike Universe?",
+      "paragraphs": [
+        "Bike Universe ist ein Roblox-Bike-Erlebnis rund um eine offene Stadt, verkehrsreiche Straßen und eine Garage mit Pedal-, Elektro-, Dirt-, Renn- und Trick-Bikes. Fahrer balancieren Gas, Bremsen und Körperposition aus, während sie durch den Verkehr fahren, Wheelies, Stoppies und Sprünge üben und das HUD nutzen, um Bikes, Builds und Spawnpunkte zu verwalten.",
+        "Bike Universe ist 2026 durchgehend in aktiver Beta, mit einem Highway-Verkehrssystem und einer Test-UI im Kern des aktuellen Builds. Unsere Guides decken die Einrichtung der ersten Fahrt, Steuerung, Bike-Handling, Fortschritt, Tier-Rankings und den neuesten Codestatus ab, damit neue Fahrer saubere Gewohnheiten aufbauen, bevor sie nach Geschwindigkeit streben."
+      ],
+      "stats": [
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Bike-Simulator"
+        },
+        {
+          "label": "Status",
+          "value": "Aktive Beta"
+        },
+        {
+          "label": "Release",
+          "value": "27. Sep. 2026"
+        },
+        {
+          "label": "Besuche",
+          "value": "2.2M+"
+        },
+        {
+          "label": "Spitzen-CCU",
+          "value": "14.5K"
+        },
+        {
+          "label": "Nutzerbewertung",
+          "value": "87.1%"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Bike-Universe-Guides entdecken",
+      "description": "Plane deine erste Fahrt, lerne jede Steuerung, vergleiche Bike-Klassen, ordne deine Garage ein und verfolge die neuesten Änderungen am Bike-Universe-Testbuild.",
+      "readFullGuide": "Kompletten Guide lesen",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Bike Universe Einsteigerguide",
+          "description": "Beginne mit den Grundlagen der ersten Fahrt: HUD-Layout, Kameraeinstellung, Gas- und Bremskontrolle, Verkehrsbeobachtung und produktive Ziele für die erste Session.",
+          "href": "/guide/bike-universe-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Stelle Shift-Lock und Kameraeempfindlichkeit ein, bevor du in den Verkehr fährst"
+            },
+            {
+              "label": "2",
+              "detail": "Dosiere Gas und Bremse, bevor du eine Lücke zum Ausweichen brauchst"
+            },
+            {
+              "label": "3",
+              "detail": "Beobachte zwei Fahrzeuge voraus und fahre mit einer Geschwindigkeit, aus der du bremsen kannst"
+            },
+            {
+              "label": "4",
+              "detail": "Übe eine wiederholbare Runde und lerne, wo Shops und Rampen liegen"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Bike Universe Bikes-Guide",
+          "description": "Vergleiche Pedal-, Elektro-, Dirt-, Renn- und Trick-Bikes nach ihren Handling-Eigenschaften, Stärken und den Routen, die jede Kategorie am besten bewältigt.",
+          "href": "/mechanics/bike-universe-bike-handling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pedal",
+              "detail": "Sehr gutes Kurvenverhalten und Stabilität machen Pedal-Bikes zur besten Lernplattform"
+            },
+            {
+              "label": "Elektro",
+              "detail": "Sanfte Leistung und ausgewogenes Handling eignen sich für schnelle Fahrten durch die Stadt"
+            },
+            {
+              "label": "Dirt",
+              "detail": "Federung und Grip glänzen auf rauem Gelände und Abkürzungen"
+            },
+            {
+              "label": "Rennen",
+              "detail": "Hohe Geschwindigkeit belohnt saubere Linien und diszipliniertes Bremsen"
+            },
+            {
+              "label": "Tricks",
+              "detail": "Schnelle Richtungswechsel unterstützen Stunts, verlangen aber präzise Eingaben"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Bike Universe Steuerungsguide",
+          "description": "Lerne die HUD-Schaltflächenreihe, Shift-Lock, Gas, Hinterradbremse, Stunt-Hinweise und mobile Touch-Steuerung für PC- und Handy-Fahrer.",
+          "href": "/controls/bike-universe-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SHOP",
+              "detail": "Öffnet Bikes, Teile und Robux-Pässe"
+            },
+            {
+              "label": "BUILD",
+              "detail": "Öffnet das Build-System für das ausgerüstete Bike"
+            },
+            {
+              "label": "BIKES",
+              "detail": "Zeigt Garage, Suchfeld und Kategoriefilter"
+            },
+            {
+              "label": "SPAWN",
+              "detail": "Wählt vor einer Fahrt einen Spawnpunkt"
+            },
+            {
+              "label": "SHIFT",
+              "detail": "Schaltet Shift-Lock ein oder aus"
+            },
+            {
+              "label": "REAR BRAKE",
+              "detail": "Steuert die Bremse und ist die meistgenutzte Eingabe im Verkehr"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Bike Universe Tricks-Guide",
+          "description": "Übe Wheelies, Stoppies, Burnouts, Sprünge und saubere Landungen mit Gleichgewichtsübungen, die Kontrolle aufbauen, bevor du Combos versuchst.",
+          "href": "/mechanics/bike-universe-bike-physics",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Starte auf einem offenen Platz und lerne die Aktionshinweis-Leiste"
+            },
+            {
+              "label": "2",
+              "detail": "Übe kurze Wheelies, indem du bei niedriger Geschwindigkeit das Gas dosierst"
+            },
+            {
+              "label": "3",
+              "detail": "Bremse für Stoppies progressiv und verlagere das Gewicht nach hinten"
+            },
+            {
+              "label": "4",
+              "detail": "Nähere dich kleinen Rampen mit mäßiger Geschwindigkeit und richte das Bike in der Luft aus"
+            },
+            {
+              "label": "5",
+              "detail": "Nutze kurze Gasstöße für Burnouts und lasse los, um wieder Grip zu bekommen"
+            },
+            {
+              "label": "6",
+              "detail": "Verbinde Moves erst, wenn jeder Trick einzeln sauber landet"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bike Universe Tier-Liste",
+          "description": "Ordne Bike-Archetypen nach Beschleunigung, Handling, Bremsstabilität, Höchstgeschwindigkeit und Erholung für verkehrsreiche Bike-Universe-Routen ein.",
+          "href": "/items/bike-universe-bike-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Ausgewogene Sport-Bikes verbinden starke Beschleunigung mit berechenbarem Einlenken"
+            },
+            {
+              "label": "A",
+              "detail": "Supermoto- und Dirt-Builds glänzen im dichten Verkehr oder auf rauen Abkürzungen"
+            },
+            {
+              "label": "B",
+              "detail": "Hyperbikes und Stunt-Setups tauschen Beständigkeit gegen ein spezialisiertes Maximum"
+            },
+            {
+              "label": "C",
+              "detail": "Einsteiger-Commuter sind verzeihend, stoßen aber an ihre Grenzen, sobald deine Linien sauber sind"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Bike Universe Codes",
+          "description": "Prüfe den aktuellen Codestatus von Bike Universe, lerne die standardmäßigen Einlöseschritte und erfahre, wo neue Codes zuerst erscheinen würden.",
+          "href": "/codes/bike-universe-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Aktiv",
+              "detail": "Stand 19. Oktober 2026 sind keine funktionierenden Bike-Universe-Codes gelistet"
+            },
+            {
+              "label": "Abgelaufen",
+              "detail": "Es wurden keine abgelaufenen Bike-Universe-Codes veröffentlicht"
+            },
+            {
+              "label": "Einlösen",
+              "detail": "Öffne das Menü oder die Test-UI und suche nach einem Codes- oder Promo-Feld"
+            },
+            {
+              "label": "Beobachten",
+              "detail": "Neue Codes würden zuerst auf der Spielseite und in den Entwicklerkanälen erscheinen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bike Universe Tipps und Tricks für Einsteiger",
+          "description": "Behebe die Gewohnheiten, die neue Fahrer bremsen: vor der Kurve bremsen, eine wiederholbare Einnahmeroute wählen, Upgrades auf derselben Runde testen und Fluchten vor Verfolgungen planen.",
+          "href": "/progression/bike-universe-beginner-mistakes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bremsen",
+              "detail": "Bremse vor dem Einlenken und nutze dieselbe Landmarke für wiederholbare Stopps"
+            },
+            {
+              "label": "Routen",
+              "detail": "Lege eine Einnahme-Runde fest, die zu deinem aktuellen Bike passt"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Kaufe das Teil, das eine bestimmte Einschränkung beseitigt, und teste es dann"
+            },
+            {
+              "label": "Verfolgungen",
+              "detail": "Lege dich früh auf eine Route fest und halte zwei Ausgänge offen"
+            },
+            {
+              "label": "Patches",
+              "detail": "Prüfe Landmarken und Preise nach jedem größeren Build-Update erneut"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bike Universe Updates und Patchnotes",
+          "description": "Verfolge die neuesten Änderungen am Bike-Universe-Testbuild, Anpassungen von Verkehr und Handling, neue Bike-Inhalte und die Prioritäten aus dem Community-Feedback.",
+          "href": "/community/bike-universe-gameplay-videos",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Verkehr",
+              "detail": "Das Highway-Verkehrssystem bleibt das Herzstück des aktuellen Testbuilds"
+            },
+            {
+              "label": "Test-UI",
+              "detail": "Die Test-UI verfolgt Geschwindigkeit und Feedback, während Systeme abgestimmt werden"
+            },
+            {
+              "label": "Handling",
+              "detail": "Bike-Handling und Balance können sich zwischen öffentlichen Builds ändern"
+            },
+            {
+              "label": "Beta",
+              "detail": "Bike Universe bleibt in aktiver Beta, während neue Funktionen getestet werden"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Bike Universe FAQ",
+      "description": "Schnelle Antworten zu Bike-Universe-Steuerung, Bikes, Fortschritt, Codes und Multiplayer.",
+      "items": [
+        {
+          "question": "Was ist Bike Universe?",
+          "answer": "Bike Universe ist ein Roblox-Bike-Erlebnis in einer offenen Stadt mit verkehrsreichen Straßen, mehreren Bike-Klassen, Stunts und Verfolgungsjagden mit KI-Polizei. Fahrer nutzen das HUD, um Bikes zu kaufen, Builds zu wechseln und Spawnpunkte auszuwählen."
+        },
+        {
+          "question": "Ist Bike Universe kostenlos spielbar?",
+          "answer": "Bike Universe ist auf Roblox mit einem Roblox-Konto kostenlos zugänglich. Optionale Käufe sind separat, und laut Testbuild fließen während der Entwicklung verdiente Robux zurück ins Spiel."
+        },
+        {
+          "question": "Welche Bike-Universe-Steuerung sollte ich zuerst lernen?",
+          "answer": "Beginne mit Shift-Lock, Gas und Hinterradbremse. Diese drei Bike-Universe-Steuerungen machen Spurwechsel, Bremspunkte und Stunt-Landungen berechenbar, bevor du Wheelies oder Sprünge hinzufügst."
+        },
+        {
+          "question": "Hat Bike Universe funktionierende Codes?",
+          "answer": "Stand 19. Oktober 2026 sind keine funktionierenden Bike-Universe-Codes gelistet. Falls ein Codesystem hinzugefügt wird, öffne das Spielmenü oder die Test-UI und suche nach einem Codes- oder Promo-Feld."
+        },
+        {
+          "question": "Welches Bike sollte ein neuer Bike-Universe-Spieler nutzen?",
+          "answer": "Beginne mit einem Pedal-Bike, weil Kurvenverhalten und Stabilität verzeihend sind. Wechsle für Stadtfahrten zu einem Elektro-Bike, für raue Abkürzungen zu einem Dirt-Bike oder zu einem Renn-Bike, sobald deine Kurven konstant sind."
+        },
+        {
+          "question": "Wie verdiene ich in Bike Universe schneller Bargeld?",
+          "answer": "Nutze eine wiederholbare Einnahmeroute, beende Fahrten statt neu zu starten und verfolge Zeit- oder Distanzziele. In Bike Universe zahlen saubere Verkehrsfahrten meist mehr als riskante Stunts."
+        },
+        {
+          "question": "Unterstützt Bike Universe Multiplayer?",
+          "answer": "Ja. Bike Universe unterstützt gemeinsames Free-Roam und Tandem-Bikes für zwei Spieler. Tritt über Roblox einem Freund bei, vereinbart einen Treffpunkt und teilt die Route, bevor eine Polizeiverfolgung beginnt."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit für eine Fahrt durch Bike Universe?",
+      "description": "Von deinem ersten Bike bis zu fortgeschrittenen Stunts und Upgrades deckt unser Community-Wiki dich mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Einsteigerguide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Bike Universe Guides: Einsteigertipps, Routen & Bike-Builds",
+    "overviewDescription": "Durchsuche Bike-Universe-Guides für neue Fahrer, darunter Spielanleitung, Einsteigertipps, schnelle Bikes, Upgrades, Fortschritt und die besten Bike-Builds."
+  },
+  "mechanics": {
+    "overviewTitle": "Bike Universe Mechanik: Tempo, Handling & Upgrades",
+    "overviewDescription": "Erfahre, wie Geschwindigkeit, Handling, Anpassung, Physik, Rennsysteme und Bike-Upgrades in Bike Universe jede Fahrt beeinflussen."
+  },
+  "codes": {
+    "overviewTitle": "Bike Universe Codes: Status, Belohnungen & Einlösung",
+    "overviewDescription": "Prüfe den neuesten Bike-Universe-Codestatus, Belohnungshinweise und den schrittweisen Einlöseprozess für künftige Code-Veröffentlichungen."
+  },
+  "items": {
+    "overviewTitle": "Bike Universe Bikes: beste Bikes, Stats & Tier-Liste",
+    "overviewDescription": "Vergleiche Bike-Universe-Stats, seltene und legendäre Modelle, Freischaltanforderungen und Tier-Listen-Rankings für jeden Fahrstil."
+  },
+  "controls": {
+    "overviewTitle": "Bike Universe Steuerung: PC, Mobil & Lenkungsguide",
+    "overviewDescription": "Meistere die Bike-Universe-Steuerung auf PC und Mobil, einschließlich Lenken, Bremsen, Beschleunigen und den Eingaben für saubere Kurven."
+  },
+  "progression": {
+    "overviewTitle": "Bike Universe Fortschritt: Geld, XP & Bike-Freischaltungen",
+    "overviewDescription": "Finde schnellere Bike-Universe-Fortschrittsrouten zum Geldverdienen, Leveln, Freischalten von Bikes und Vermeiden häufiger Einsteigerfehler."
+  },
+  "community": {
+    "overviewTitle": "Bike Universe Community: Multiplayer, Videos & Tipps",
+    "overviewDescription": "Entdecke Bike-Universe-Community-Ressourcen, Multiplayer-Sessions, Gameplay-Videos, Renntipps und Spielerdiskussionen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "noActiveCodes": "Derzeit sind keine aktiven Codes verfügbar",
+    "checkBackSoon": "Schau bald wieder nach neuen Codes vorbei",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "pageNotFound": "Seite nicht gefunden",
+    "pageNotFoundDescription": "Der gesuchte Guide wurde möglicherweise verschoben oder noch nicht hinzugefügt.",
+    "browseGuides": "Bike-Guides durchsuchen",
+    "close": "Schließen"
+  },
+  "footer": {
+    "aboutTitle": "Bike Universe Wiki",
+    "about": "Bike Universe Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Bikes, Steuerung, Stunts, Upgrades, Fortschrittsrouten und wichtigem Spielwissen für neue und erfahrene Fahrer.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Bike Universe Wiki. Nicht mit Roblox Corporation oder den Bike-Universe-Entwicklern verbunden.",
+    "description": "Bike Universe ist ein Roblox-Bike-Simulator mit Bikes, Tricks, Rennen und Open-World-Fortschritt.",
+    "playGame": "Bike Universe auf Roblox spielen",
+    "officialDiscord": "Bike Universe Community-Suche",
+    "officialYoutube": "Bike Universe Gameplay-Videos",
+    "vvBuilder": "Bike Universe Guide-Hub",
+    "beginnerGuide": "Einsteigerguide",
+    "controlsGuides": "Steuerungsguides",
+    "progressionGuides": "Fortschrittsguides",
+    "itemsGuide": "Bike-Tier-Liste",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
