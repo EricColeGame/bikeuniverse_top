@@ -38,8 +38,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: "/apple-touch-icon.png",
       shortcut: "/favicon.ico",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, images: [{ url: image, width: 1920, height: 800, alt: `${siteConfig.name} hero image` }] },
+    twitter: { card: "summary_large_image", title: "Bike Universe Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -54,6 +54,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
+    description: siteConfig.description,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
   };
